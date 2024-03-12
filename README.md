@@ -12,6 +12,8 @@
 	   step -1:-
 	    creating vpc in two availabilty zones. with two public subnets and two private subnets
 	    and attaching one nat gateway to each availability zone withno s3 Gateway
+     		![Resouce map](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/d198a61f-1b50-4655-adb8-a36e6c3251c2)
+
 	   step-2:-
 	    create launch template and auto scalling group
 	    create a launch template
@@ -39,6 +41,8 @@
 	    python3 -m http.server 8000
 	   Step-8:-
 	    copy DNS of load balance and paste in browser we have to see output.
+     		![final html](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/2f682b8d-4197-4eb2-aa16-9fa56d6ea89c)
+
 
 
 
