@@ -8,7 +8,7 @@
 	  2.For additional security, deployed the servers in private subnets. The servers receive requests through the load balancer.
 	  3.The servers can connect to the internet by using a NAT gateway. To improve resiliency, deploy the NAT gateway in both Availability Zones.
 	 
-	  Step of Project:-
+	  Project presentation:-
 	   step -1:-
 	    creating vpc in two availabilty zones. with two public subnets and two private subnets
 	    and attaching one nat gateway to each availability zone withno s3 Gateway
