@@ -1,7 +1,6 @@
 	  Implementation of #Virtual Private Cloud (vpc) with servers in private subnets and NAT used in Production environment.
 	 
-	 
-	  ![private subnet](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/7dc66c13-1a17-4e7f-8cd3-5177df7d516e)
+![private subnet](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/7dc66c13-1a17-4e7f-8cd3-5177df7d516e)
 	 
 	 ✅ Things Done:
 	  1.To improve resiliency, deployed the servers in two Availability Zones, by using an Auto Scaling group and an Application Load Balancer.
@@ -13,7 +12,7 @@
 	   step -1:-
 	    creating vpc in two availabilty zones. with two public subnets and two private subnets
 	    and attaching one nat gateway to each availability zone withno s3 Gateway
-     		![Resouce map](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/d198a61f-1b50-4655-adb8-a36e6c3251c2)
+![Resouce map](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/d198a61f-1b50-4655-adb8-a36e6c3251c2)
 
 	   step-2:-
 	    create launch template and auto scalling group
@@ -48,7 +47,7 @@
      
 	   Step-8:-
 	    copy DNS of load balance and paste in browser we have to see output.
-     		![final html](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/2f682b8d-4197-4eb2-aa16-9fa56d6ea89c)
+![final html](https://github.com/pavan-pedditi/AWS-vpc_project/assets/162891338/2f682b8d-4197-4eb2-aa16-9fa56d6ea89c)
 
 
 
